@@ -1,7 +1,7 @@
 All of these examples satisfy the spec, but are increasingly shorter/better in terms of golf.
 
 spec.txt          : the problem specification
-golden.master.txt : I generated this ASAP so I could ensure that experiments matcth the spec
+golden.master.txt : I generated this ASAP so I could ensure that experiments match the spec
 wc                : this Unix command is ideal for counting chars
 
 Solutions, as I wrote them:
