@@ -1,0 +1,8 @@
+Write to STDOUT (5 lines):
+Hello, world!
+Hello, world!
+Hello, world!
+Hello, world!
+Hello, world!
+
+This is code golf, so fewest chars wins.
