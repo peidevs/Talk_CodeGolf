@@ -1,0 +1,1 @@
+p 'bbc'.to_i ?\r.ord
